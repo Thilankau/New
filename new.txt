@@ -1,6 +1,0 @@
-http://api.hostip.info/get_html.php?ip=207.46.197.32
-https://github.com/ThinkGeo/VehicleTrackingSample-ForMvc
-https://github.com/khopaderahul01/vehicletracking
-http://www.eijo.in/journals/article_detail/106
-https://en.wikipedia.org/wiki/Vehicle_tracking_system
-https://circuitdigest.com/microcontroller-projects/vehicle-tracking-system-using-arduino-gps-and-gsm
